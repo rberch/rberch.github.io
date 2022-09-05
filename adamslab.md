@@ -6,7 +6,7 @@ bigimg:
 ---
 
 ### Medical Innovation Lab 
-Most of my work has been collaborating Pharmacists and Clinicians under Adam Bress, PharmD. Some of my recent works as lead/secondary analyst or co-first author are on: 
+Most of my work has been collaborating with Pharmacists and Clinicians under Adam Bress, PharmD. Some of my recent works as lead/secondary analyst or co-first author are on: 
 
 - Estimating the Per-protocol effect of initiation and continuous treatment with angiotensin-II receptor blockers versus angiotensin converting enzyme inhibitors on
 cognitive outcomes in SPRINT 
