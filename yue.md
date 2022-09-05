@@ -2,7 +2,7 @@
 layout: page
 title: Yue Lab
 bigimg:
-  - "/img/big-img/falsm.png"
+  - "/img/big-img/msmrsz.png"
 ---
 
 ### Multi-State Models
