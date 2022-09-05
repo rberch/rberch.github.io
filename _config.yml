@@ -24,7 +24,7 @@ description: PhD Biostatistics Student
 # List of links in the navigation bar
 navbar-links:
   Research:
-    - Medical Innovation Lab: "adamslab"    
+    - Adam Bress' Lab - Medical Innovation Lab: "adamslab"    
     - Length-based assessment: "lengthassess"
     - Recruitment processes: "recruitment"
     - Spatial bycatch prediction: "spatialbycatch"    
