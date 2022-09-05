@@ -25,8 +25,8 @@ description: PhD Biostatistics Student
 navbar-links:
   Research:
     - Medical Innovation Lab: "adamslab"    
-    - Scharfstein Lab: "lengthassess"
-    - Yue's Lab: "recruitment"
+    - Scharfstein Lab: "sharf"
+    - Yue's Lab: "yue"
     #- Spatial bycatch prediction: "spatialbycatch"    
     #- Mixing models to estimate diet: "mixingmodels"    
   Workshops:
