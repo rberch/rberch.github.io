@@ -29,7 +29,7 @@ navbar-links:
     - Yue's Lab: "yue"
     #- Spatial bycatch prediction: "spatialbycatch"    
     #- Mixing models to estimate diet: "mixingmodels"    
-  Teaching:
+  Teaching: "teaching"
     # - Mixing models: "work-mixingmodels"
     # - Intro to R: "work-introR"
   Personal: 
