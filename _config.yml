@@ -24,7 +24,7 @@ description: PhD Biostatistics Student
 # List of links in the navigation bar
 navbar-links:
   Research:
-    - State-space stock assessment: "statespace"    
+    - Medical Innovation Lab: "adamslab"    
     - Length-based assessment: "lengthassess"
     - Recruitment processes: "recruitment"
     - Spatial bycatch prediction: "spatialbycatch"    
