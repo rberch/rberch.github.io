@@ -23,16 +23,16 @@ description: PhD Biostatistics Student
 
 # List of links in the navigation bar
 navbar-links:
-  Research:
-    - Medical Innovation Lab: "adamslab"    
-    - Scharfstein Lab: "sharf"
-    - Yue's Lab: "yue"
+  Research: "research"
+    #- Medical Innovation Lab: "adamslab"    
+    #- Scharfstein Lab: "sharf"
+    #- Yue's Lab: "yue"
     #- Spatial bycatch prediction: "spatialbycatch"    
     #- Mixing models to estimate diet: "mixingmodels"    
   Teaching: "teaching"
     # - Mixing models: "work-mixingmodels"
     # - Intro to R: "work-introR"
-  Personal: 
+  Personal: "personal"
     # - WHAM: "wham"
     # - MixSIAR: "mixsiar"   
   Publications: "publications"
