@@ -22,21 +22,22 @@ description: PhD Biostatistics Student
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
+navbar-links:    
+  About:
+    # - WHAM: "wham"
+    # - MixSIAR: "mixsiar"   
+  Publications: "publications"
+    # - Published: "pubs" 
+  Teaching: "teaching"
+    # - Mixing models: "work-mixingmodels"
+    # - Intro to R: "work-introR"
   Research: "research"
     #- Medical Innovation Lab: "adamslab"    
     #- Scharfstein Lab: "sharf"
     #- Yue's Lab: "yue"
     #- Spatial bycatch prediction: "spatialbycatch"    
-    #- Mixing models to estimate diet: "mixingmodels"    
-  Teaching: "teaching"
-    # - Mixing models: "work-mixingmodels"
-    # - Intro to R: "work-introR"
-  Personal: "personal"
-    # - WHAM: "wham"
-    # - MixSIAR: "mixsiar"   
-  Publications: "publications"
-    # - Published: "pubs"
+    #- Mixing models to estimate diet: "mixingmodels"
+  Service: "service"
   CV: #"https://brianstock.github.io/pdf/BrianStock_CV_current.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
