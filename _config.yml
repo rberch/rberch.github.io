@@ -35,7 +35,7 @@ navbar-links:
   Personal: 
     # - WHAM: "wham"
     # - MixSIAR: "mixsiar"   
-  Publications:
+  Publications: "publications"
     # - Published: "pubs"
   CV: #"https://brianstock.github.io/pdf/BrianStock_CV_current.pdf"
 
