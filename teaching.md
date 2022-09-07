@@ -14,7 +14,7 @@ Below are courses that I have instructed
 - [MAT 125: Precalculus Mathematics](https://nau.edu/math/mat-125/) (Summer 2020)
 
 
-## Kwame Nkrumah University of Science and Technology
+## Kwame Nkrumah University of Science and Technology - Kumasi, Ghana
 ***Courses I Assisted in Teaching***
 - [MAT 135: Statistical Methods I](http://economics.knust.edu.gh/undergraduate/ba-economics) (Fall 2017)
 - [STA 265: Probability and Statistics II](https://statacts.knust.edu.gh/undergraduate/bsc/bsc-actuarial-science-regular) (Fall 2017)
