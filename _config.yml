@@ -23,7 +23,7 @@ description: PhD Biostatistics Student
 
 # List of links in the navigation bar
 navbar-links:    
-  About:
+  About: "aboutme"
     # - WHAM: "wham"
     # - MixSIAR: "mixsiar"   
   Publications: "publications"
