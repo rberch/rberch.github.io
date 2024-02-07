@@ -69,6 +69,7 @@ author:
   email: "ransmond.berchie@utah.edu"
   #facebook: yourname  # eg. daattali
   github: rberch    # eg. daattali
+  resume_google_scholar_url:  "https://scholar.google.com/citations?user=tDDiHacAAAAJ&hl=en"
   twitter: RansmondBerchie   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -89,6 +90,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
+  resume_google_scholar_url: true
   twitter: true
   google-plus: false
   github: true
