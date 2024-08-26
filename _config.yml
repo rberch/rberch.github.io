@@ -38,7 +38,7 @@ navbar-links:
     #- Spatial bycatch prediction: "spatialbycatch"    
     #- Mixing models to estimate diet: "mixingmodels"
   Service: "service"
-  CV: "https://rberch.github.io/pdf/Ransmond_cv.pdf"
+  CV: "https://rberch.github.io/pdf/Ransmond_Berchie_cv.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
