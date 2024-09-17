@@ -5,8 +5,8 @@ title: Publications
 ---
 
 ***Under Review***
-- Catherine G. Derington ^*^, **Ransmond O. Berchie ^*^**, Daniel Scharfstein, Ryan M. Andrews, Tom H. Greene, Yizhe Xu, Jordan B. King, PharmD, Mark A. Supiano, Joshua A. Sonnen, Jeff Williamson, Nicholas M. Pajewski, Jeremy Pruzin, Jordana B. Cohen, and Adam P. Bress. Effect of initiation and continuous adherence to ARBs vs. ACEIs on risk of adjudicated mild cognitive impairment or dementia.
-**^*^ Equal contributions**
+- Catherine G. Derington <sup>*</sup>, **Ransmond O. Berchie**<sup>*</sup>, Daniel Scharfstein, Ryan M. Andrews, Tom H. Greene, Yizhe Xu, Jordan B. King, PharmD, Mark A. Supiano, Joshua A. Sonnen, Jeff Williamson, Nicholas M. Pajewski, Jeremy Pruzin, Jordana B. Cohen, and Adam P. Bress. Effect of initiation and continuous adherence to ARBs vs. ACEIs on risk of adjudicated mild cognitive impairment or dementia.
+<sup>*</sup> **Equal contributions**
     
 Under review at: _The Journals of Gerontology Series A (Medical Sciences)_
 
