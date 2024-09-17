@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-Below are courses that I have instructed
+Below are the courses that I have instructed
 
 ## Northern Arizona University
 ***Courses Taught***
