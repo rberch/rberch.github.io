@@ -3,6 +3,18 @@ layout: page
 title: Publications
 
 ---
+
+***Under Review***
+- Catherine G. Derington ^*^, **Ransmond O. Berchie ^*^**, Daniel Scharfstein, Ryan M. Andrews, Tom H. Greene, Yizhe Xu, Jordan B. King, PharmD, Mark A. Supiano, Joshua A. Sonnen, Jeff Williamson, Nicholas M. Pajewski, Jeremy Pruzin, Jordana B. Cohen, and Adam P. Bress. Effect of initiation and continuous adherence to ARBs vs. ACEIs on risk of adjudicated mild cognitive impairment or dementia.
+**^*^ Equal contributions**
+    
+Under review at: _The Journals of Gerontology Series A (Medical Sciences)_
+
+
+**Draft in progress**
+- **Ransmond O. Berchie**, Hiddo Lambers Heerspink, Lesley Inker, Tom H. Greene. Effect Modification by Acute Change in a Biomarker. (_90\% done_)
+
+
 ***Published***
 
 - King, J. B., **Berchie, R. O.**, Derington, C. G., Marcum, Z. A., Scharfstein, D. O., Greene, T. H., Herrick, J. S., Jacobs, J. A., Zheutlin, A. R., Bress, A. P., \& Cohen, J. B. (2023). New Users of Angiotensin II Receptor Blocker-Versus Angiotensin-Converting Enzyme Inhibitor-Based Antihypertensive Medication Regimens and Cardiovascular Disease Events: A Secondary Analysis of ACCORD-BP and SPRINT. Journal of the American Heart Association, 12(17). [pdf](https://doi.org/10.1161/JAHA.123.030311)
