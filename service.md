@@ -9,16 +9,16 @@ title: Service
 - Circulation
 # Leadership and Affiliation
 
-- Graduate Student Member; American Society of Nephrology (May 2024 - Present)
-- Student Member; ENAR - International Biometric Society (March 2024 - Present)
-- Member; Drug Information Association (Feb 2024 - Present)
-- Student Member; Society for Epidemiologic Research (Jan 2024 - Present)
-- Student Member; American Statistical Association (Sep 2021 - Present)
-- Member Interdisciplinary Association of Population Health Science (Aug 2020 - Present)
-- Student Member; Royal Statistical Society (Aug 2018 - Present)
-- Student Member; American Mathematical Society (Aug 2018 - Present)
-- Student Member; Institute for Mathematical and Statistical Innovation (Aug 2022 - Present)
-- Committee member; Population Health Sciences Student Advisory Committee, University of Utah. (Aug 2020 - May 2021)
+- **Graduate Student Member**; American Society of Nephrology (May 2024 - Present)
+- **Student Member**; ENAR - International Biometric Society (March 2024 - Present)
+- **Member**; Drug Information Association (Feb 2024 - Present)
+- **Student Member**; Society for Epidemiologic Research (Jan 2024 - Present)
+- **Student Member**; American Statistical Association (Sep 2021 - Present)
+- **Member**; Interdisciplinary Association of Population Health Science (Aug 2020 - Present)
+- **Student Member**; Royal Statistical Society (Aug 2018 - Present)
+- **Student Member**; American Mathematical Society (Aug 2018 - Present)
+- **Student Member**; Institute for Mathematical and Statistical Innovation (Aug 2022 - Present)
+- **Committee member**; Population Health Sciences Student Advisory Committee, University of Utah. (Aug 2020 - May 2021)
 
 # Teaching
 
