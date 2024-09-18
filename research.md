@@ -7,8 +7,10 @@ title: Research
 # General themes
 - Causal Inference, Survival Analysis, Longitudinal data analysis, and Pharmacoepidemiology.
 - Comparative Effectiveness Research, Surrogate Endpoints, Target Trial Emulation, Informative missing data, Large-scale Observational Data
+
 # Clinical areas
 - Hypertension, Cardiology, Nephrology, Cognitive Outcomes.
+
 
 # Effect Modification by Acute Change in a Biomarker:
 - Utilized the principal stratification framework with a normal copula model, governed by the correlation between potential biomarker changes under treatment and placebo, to estimate conditional average treatment effects
