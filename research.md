@@ -24,3 +24,4 @@ title: Research
 - Working on methods for estimating the distribution of observed LOS and the LOS that would be observed if all Hospital-Acquired Infections could be prevented.
 - This method will address potential time-varying confounding and the competing event of hospital mortality.
 
+## Poster Presentation at 2024 JSM in Portland, Oregon.
