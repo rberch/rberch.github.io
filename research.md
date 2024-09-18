@@ -25,3 +25,5 @@ title: Research
 - This method will address potential time-varying confounding and the competing event of hospital mortality.
 
 ## Poster Presentation at 2024 JSM in Portland, Oregon.
+
+![](/img/big-img/jsm.png){:class="img-responsive"}
