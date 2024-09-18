@@ -26,4 +26,4 @@ title: Research
 
 ## Poster Presentation at 2024 JSM in Portland, Oregon.
 
-![](/img/big-img/jsm.png){:class="img-responsive"}
+![](/img/big-img/jsm.png)
