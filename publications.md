@@ -11,7 +11,7 @@ title: Publications
 
 
 **Draft in progress**
-- **Ransmond O. Berchie**, Hiddo Lambers Heerspink, Lesley Inker, Tom H. Greene. Effect Modification by Acute Change in a Biomarker. (_90% done_)
+- **Ransmond O. Berchie**, Hiddo Lambers Heerspink, Lesley Inker, Edward Vonesh, Tom H. Greene. Effect Modification by Acute Change in a Biomarker. (_90% done_)
 
 
 ***Published***
